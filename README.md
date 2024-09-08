@@ -9,18 +9,18 @@ This is a backend application for user login and registration with email validat
 - JWT Authentication: Uses JWT tokens for session management and user authentication.
 
 ## Technologies Used
--Spring Boot: For building the backend application
--Spring Security: For authentication and authorization
--JWT: For token-based authentication
--JavaMailSender: For sending verification emails
--MySQL: Database, managed via phpMyAdmin
--Docker: For containerizing MySQL, phpMyAdmin, and MailDev
+- Spring Boot: For building the backend application
+- Spring Security: For authentication and authorization
+- JWT: For token-based authentication
+- JavaMailSender: For sending verification emails
+- MySQL: Database, managed via phpMyAdmin
+- Docker: For containerizing MySQL, phpMyAdmin, and MailDev
 
 ## Getting Started
 ### Prerequisites
--Java 17 (or compatible version)
--Maven or Gradle
--MySQL database (configured via phpMyAdmin)
+- Java 17 (or compatible version)
+- Maven or Gradle
+- MySQL database (configured via phpMyAdmin)
 
 ### Installation
 1. Clone the repository
