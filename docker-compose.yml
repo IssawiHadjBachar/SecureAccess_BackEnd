@@ -4,7 +4,7 @@ services:
     image: mysql:latest
     environment:
       MYSQL_ROOT_PASSWORD: rootpassword
-      MYSQL_DATABASE: book_social_network
+      MYSQL_DATABASE: SecureAccess
       MYSQL_USER: username
       MYSQL_PASSWORD: password
     volumes:
